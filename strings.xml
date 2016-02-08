@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Typical XML comment -->
+    <string name="string_help">Hjælp</string>
+    <string name="string_settings">Indstillinger</string>
+    <string name="string_about_application">Om ansøgning</string>
+    <string name="string_instructions">Instruktioner</string>
+    <string name="string_login">Log på</string>
+
+</resources>
